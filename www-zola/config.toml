@@ -1,4 +1,4 @@
-base_url = "https://kereminggat.github.io/pssh-box-wasm/"
+base_url = "https://kereminggat.github.io/pssh-box/"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
