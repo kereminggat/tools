@@ -1,4 +1,4 @@
-# mirror of pssh-box-wasm
+# pssh-box
 
 A collection of web-based tools for working with PSSH boxes (as used for the initialization of DRM
 systems) and with Widevine Content Decryption Modules (CDMs). There are tools that allow you to:
@@ -12,7 +12,7 @@ WebAssembly (WASM), and run fully in your web browser (there is no server backen
 offline once loaded).
 
 > [!TIP]
-> You can [try out the tools in your browser](https://kereminggat.github.io/pssh-box-wasm/). 
+> You can [try out the tools in your browser](https://kereminggat.github.io/pssh-box/). 
 
 
 PSSH boxes are used:
