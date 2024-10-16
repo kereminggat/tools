@@ -1,4 +1,4 @@
-# pssh-box
+# PSSH Box Tools
 
 A collection of web-based tools for working with PSSH boxes (as used for the initialization of DRM
 systems) and with Widevine Content Decryption Modules (CDMs). There are tools that allow you to:
