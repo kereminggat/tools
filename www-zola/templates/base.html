@@ -15,7 +15,7 @@
    {% if page.title -%}
    <title>{{ page.title }}</title>
    {% else -%}
-   <title>PSSH Box tools</title>
+   <title>tools</title>
    {% endif -%}
    {% if page.description -%}
     <meta name="description" content="{{ page.description }}" />
@@ -36,7 +36,7 @@
       {% if page %}
       <nav aria-label="breadcrumb">
        <ul>
-        <li><a href="{{ get_url(path='/') }}">PSSH box tools</a></li>
+        <li><a href="{{ get_url(path='/') }}">tools</a></li>
         <li>{{ page.title }}</li>
        </ul>
       </nav>
@@ -65,7 +65,7 @@
     <footer>
     <span>Built on {{ now() | date }} with pssh-box version <span id="version"></span></span>
     <span><img src="{{ get_url(path='img/github.svg') }}" style="width:1.2em;vertical-align:bottom" alt=""
-        loading="lazy" decoding="async">&nbsp;<a href="https://github.com/kereminggat/pssh-box/">GitHub repository</a></span>
+        loading="lazy" decoding="async">&nbsp;<a href="https://kereminggat.github.io/tools/">GitHub Pages</a></span>
     <span>WebAssembly <img src="{{ get_url(path='img/webassembly.svg') }}"
         style="width:1.2em;vertical-align:bottom"
         alt="" loading="lazy" decoding="async"> made with Rust
