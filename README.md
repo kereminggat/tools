@@ -12,7 +12,7 @@ WebAssembly (WASM), and run fully in your web browser (there is no server backen
 offline once loaded).
 
 > [!TIP]
-> You can [try out the tools in your browser](https://kereminggat.github.io/pssh-box/). 
+> You can [try out the tools in your browser](https://kereminggat.github.io/tools/). 
 
 
 PSSH boxes are used:
